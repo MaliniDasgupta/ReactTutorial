@@ -1,0 +1,20 @@
+.home-page{
+    font-family: "Inter";
+    /* box-sizing: border-box; */
+}
+
+.articles{
+    padding-left: 20%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.article{
+    margin: 20px;
+    padding: 2%;
+    flex: 2 0 21%; /* explanation below */
+    height: 100px;
+    border: 2px solid black;
+}

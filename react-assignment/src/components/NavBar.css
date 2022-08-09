@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+
+  .navBar{
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 20%;
+      height: 100%;
+      background-color: hotpink;
+  }
+
+ #logo{
+    width: 30%;
+    height: 30%;
+    padding-top: 60px;
+    padding-bottom: 280px;
+ }
+
+ #welcome{
+     align-self: center;
+     color: white;
+     font-weight: 800;
+     padding-bottom: 100px;
+ }
+
